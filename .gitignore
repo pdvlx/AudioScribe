@@ -1,0 +1,22 @@
+# Downloaded audio files
+*.mp3
+
+# Python virtual environment
+.venv/*
+
+# IDE/Editor specific files
+# Choose the one that applies to you (or remove unused lines)
+.idea/*
+.vscode/*
+*.sublime-project
+*.sublime-workspace
+# PyCharm specific
+__pycache__/
+
+# Text files you might create for testing or saving lyrics
+*.txt
+
+# Logs and output files
+*.log
+# Requirements file, but exclude installed packages directory
+requirements.txt
